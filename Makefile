@@ -1,4 +1,4 @@
-IMAGE := base-repository-template
+IMAGE := apinanyogaratnam.github.io
 VERSION := 0.0.1
 REGISTRY_URL := ghcr.io/apinanyogaratnam/${IMAGE}:${VERSION}
 
